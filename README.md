@@ -42,4 +42,4 @@ This repository is a collection of my technical labs from my from my courses and
 * 📂 **[Linux Access Control](./Linux-Access-Control)** - Implementing Role-Based Access Control (RBAC) to segregate departmental data.
 
 ---
-*Connect with me on [LinkedIn](https://www.linkedin.com/)*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/benyam-tafesse-3ba30b286/*
