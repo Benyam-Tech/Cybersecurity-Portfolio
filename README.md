@@ -1,7 +1,7 @@
 # Cybersecurity-Portfolio (Under Construction 👷‍♂️)
 # 👋 Hi, I'm Benyam
 **Cybersecurity Student & Intern 
-
+Until this Repo is complete, please check out this mini portfolio https://benyam-tafesse-portfolio.my.canva.site/ 
 Welcome to my portfolio! I am currently studying Cybersecurity at Montgomery College ('26) and have work experience with IT support, Digital Forensics and GIS
 
 This repository is a collection of my technical labs from my from my courses and personal study. 
