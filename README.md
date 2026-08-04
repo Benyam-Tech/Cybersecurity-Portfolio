@@ -2,14 +2,14 @@
 # 👋 Hi, I'm Benyam
 **Cybersecurity Student & Intern 
 
-Welcome to my portfolio! I am currently studying Cybersecurity at Montgomery College ('26) and have experience with IT support and Digital Forensics
+Welcome to my portfolio! I am currently studying Cybersecurity at Montgomery College ('26) and have work experience with IT support, Digital Forensics and GIS
 
 This repository is a collection of my technical labs from my from my courses and personal study. 
 
 ---
 
-## 🏆 Featured Case Studies (The "Top 5")
-*These are my most complex projects, demonstrating skills in SIEM, Cloud Architecture, and Security Engineering.*
+## 🏆 Featured Case Studies
+
 
 ### 1. 📂 [Splunk Threat Hunting](./Splunk-Threat-Hunting)
 **Skill:** Blue Team / SOC Operations
@@ -42,4 +42,4 @@ This repository is a collection of my technical labs from my from my courses and
 * 📂 **[Linux Access Control](./Linux-Access-Control)** - Implementing Role-Based Access Control (RBAC) to segregate departmental data.
 
 ---
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/benyam-tafesse-3ba30b286/*
+*Connect with me on Linkedin: https://www.linkedin.com/in/benyam-tafesse-3ba30b286
