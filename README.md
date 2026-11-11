@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Benyam
 **Cybersecurity Student & Intern 
 Until this Repo is complete, please check out this mini portfolio https://benyam-tafesse-portfolio.my.canva.site/ 
+Also Feel free to check out my Repo from my Summer 2026 NASA Internship https://github.com/Benyam-Tech/HLS-Reservoir-Analysis-
 Welcome to my portfolio! I am currently studying Cybersecurity at Montgomery College ('26) and have work experience with IT support, Digital Forensics and GIS
 
 This repository is a collection of my technical labs from my from my courses and personal study. 
